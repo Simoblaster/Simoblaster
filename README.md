@@ -23,7 +23,7 @@
 **Technical Project Manager & Full-Stack Developer**  
 *I know how to build projects and how to lead teams to build them*
 
-- 💼 Currently **Technical Project Manager** at Innovaway
+- 💼 Currently **Technical Project Manager** at [Innovaway](https://www.innovaway.com/)
 - 🌐 **Full-stack developer** with strong Web3/Blockchain expertise
 - 🎓 Business Management degree
 - 📍 Based in **Rome, Italy**
