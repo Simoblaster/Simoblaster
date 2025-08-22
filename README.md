@@ -16,8 +16,6 @@
                                    ""            "            `-._) 
                                    
 ```
-# Hi there, I'm Simone 👋
-
 ## 🚀 About Me
 
 **Technical Project Manager & Full-Stack Developer**  
