@@ -51,21 +51,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## 🎬 AsmrCoding YouTube Channel
-
-<div align="center">
-  <a href="https://www.youtube.com/@AsmrCoding24">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-  </a>
-</div>
-
-**🎧 Relaxing ASMR Programming Tutorials**  
-*No talking, just pure coding ambience*
-
-I occasionally share coding sessions when I feel like it - no fixed schedule, just pure passion projects. Coding videos featuring modern web development, blockchain, and Web3 technologies with peaceful keyboard sounds.
-
-*Not actively maintained - I upload when inspiration strikes!*
-
 ## 💪 Beyond Code
 
 Some of my other interests:
